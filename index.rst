@@ -1,6 +1,6 @@
-.. title:: SE Bootcamp for Foundation
+.. title:: SE Bootcamp for Nutanix Workshops
 
-.. image:: se-bootcamp-fdn-logo.png
+.. image:: /images/se-bootcamp-wrk-logo.png
  :width: 800
  :alt: SE Bootcamp Logo
 
@@ -71,14 +71,9 @@
 
 **Background**
 
-.. raw:: html
+This tutorial will guide you through setting up your laptop with the tools necessary to create collateral in the Nutanix Workshops format.
 
-  <strong><font color="red">These notes are to support you for PoC Foundations. Customer installs
-  should NOT be completed by an SE.</font></strong><br><br>
-
-A PowerPoint version (with less narrative) of this web format is available to download `here`_.
-
-.. _here: https://drive.google.com/file/d/1s6C9pQR948aERh6kaoxEQlrmlzvrH-a0/view?usp=sharing
+Ideal for sharing information with colleagues and customers in a lightweight format and centralised should you want to update it.
 
 
 *All comments and updates welcome, please e-mail darren@nutanix.com*
