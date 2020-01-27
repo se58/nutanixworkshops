@@ -1,2 +1,2 @@
 # nutanixworkshops
-Creating Nutanix Workshops
+A walkthrough guide for creating online content in the form of Nutanix Workshops
