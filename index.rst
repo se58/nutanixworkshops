@@ -1,73 +1,35 @@
 .. title:: SE Bootcamp for Nutanix Workshops
 
-.. image:: /images/se-bootcamp-wrk-logo.png
+.. image:: /images/se-bootcamp-how-logo.png
  :width: 800
  :alt: SE Bootcamp Logo
 
 .. toctree::
   :maxdepth: 2
-  :caption: Hardware Kit
-  :name: _hardware_kit
+  :caption: Mac Setup
+  :name: _mac_setup
   :hidden:
 
-  /hardwarekit/hwkit
+  /macsetup
 
 .. toctree::
   :maxdepth: 2
-  :caption: Foundation Options
-  :name: _foundation_options
+  :caption: Windows Setup
+  :name: _windows_setup
   :hidden:
 
-  /foundation/options
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Setting Up
-  :name: _setting_up
-  :hidden:
-
-  /env/setenv
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Running Foundation
-  :name: _running_foundation
-  :hidden:
-
-  /foundation/running
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Cluster Creation
-  :name: _cluster_create
-  :hidden:
-
-  /foundation/cluster
+  /winsetup
 
 
 .. toctree::
   :maxdepth: 2
-  :caption: Verify Cluster
-  :name: _verify_cluster
+  :caption: Getting Started
+  :name: _getting_started
   :hidden:
 
-  /foundation/confirm
+  /gettingstarted
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Hypervisor Post Tasks
-  :name: _hypervisor_post_tasks
-  :hidden:
 
-  /env/postinstall
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Handover
-  :name: _handover
-  :hidden:
-
-  /env/handover
 
 **Background**
 
