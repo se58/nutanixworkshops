@@ -4,15 +4,15 @@ Setup for MS Windows
 Follow these steps to install Python (v3), Sphinx and Atom onto your Windows 10 machine.
 
 
-Phython
-+++++++
+Python
+++++++
 Before getting started Python must be installed on the computer. If you're not sure whether it's already installed:
 
 - Open a Command prompt **with the Administrator privilege**
 
-- Type in ``phython --version`` and press [Enter]
+- Type in ``python --version`` and press [Enter]
 
-- If you don't see a response like this **SCREENSHOT** then it will need installing else, skip to the **Installing Sphinx** section
+- If you don't see a response stating a version number then it will need installing else, skip to the **Installing Sphinx** section
 
 The next steps will install a local package manager that can retrieve the necessary pacakge(s) for python, this is called Chocolatey. To begin we'll use PowerShell, updating the local execution policy to accept 3rd party scripts and then download the software.
 
@@ -132,3 +132,5 @@ A really good tool that interacts directly with GitHub, syncs repositories, high
 - Open a web browser and head to ``https://desktop.github.com/``
 
 - Download and install the software (it's about 87mb) remembering to use Administrator privilege
+
+- Now follow the steps in Launching **GitHub Desktop**

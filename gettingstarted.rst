@@ -1,51 +1,31 @@
-Getting started
-===============
+Working with Content
+====================
+Due to the nature of this topic there can't be a step-by-step guide as there's way too much that could be documented. Instead, here are some common approaches I follow that I've found comfortable to with. They may not be the most expedient but they do work.
 
-Windows
-+++++++
 
-- Launch GitHib for Desktop
+Creating your own content
++++++++++++++++++++++++++
+A simple few guidelines I follow when I create my own content:
 
-.. image:: /images/win-gd-01.png
+- Create a new repository in GitHub via the website
+
+- Launch **GitHub Desktop** and use the **Clone from Repository** supplying the **URL**
+
+- From here on I use Atom for content creation and GitHub Desktop to push the changes to the repository
+
+Adapting Content
+++++++++++++++++
+If you've found a repository that contains a lot of what you're looking for but you'd like to customise for your own region, new screenshots, new features, etc... then I'd follow these steps:
+
+- Create a new repository in GitHub via the website
+
+- Launch **GitHub Desktop** and use the **Clone from Repository** supplying the **URL** (now both sides are in sync)
+
+- I'd locate the repository I'm want to adapt and **Clone to a ZIP** file and then extract into my local computer into the directory where my files are
+
+In the screenshot here you can see the option to **Download ZIP** file
+
+.. image:: /images/clone-url.png
   :width: 400
 
-|
-
-- Type in your GitHub credentials and click **Sign-in**
-
-.. image:: /images/win-gd-02.png
-  :width: 400
-
-|
-
-- Type in your preferred display name and e-mail address and click **Continue**
-
-.. image:: /images/win-gd-03.png
-  :width: 400
-
-|
-
-- Click **Clone a repository from the Internet...**
-
-.. image:: /images/win-gd-04.png
-  :width: 400
-
-|
-
-- Click the **URL** tab
-
-- Type in ``https://github.com/se58/myfirstworkshop.git`` and click **Clone**
-
-.. image:: /images/win-gd-05.png
-  :width: 400
-
-|
-
-A progress screen similar to this be shown:
-
-.. image:: /images/win-gd-06.png
-  :width: 400
-
-|
-
-The contents of that repository are now local and you can begin editing **but** before you get started you may want to branch it before directly updating to the master.
+- Now I can use GitHub Desktop to manage the push
