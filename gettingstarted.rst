@@ -11,7 +11,8 @@ A simple few guidelines I follow when I create my own content:
 
 - Launch **GitHub Desktop** and use the **Clone from Repository** supplying the **URL**
 
-- From here on I use Atom for content creation and GitHub Desktop to push the changes to the repository
+- From here I use Atom for content creation and GitHub Desktop to push the changes to the repository
+
 
 Adapting Content
 ++++++++++++++++
@@ -26,6 +27,10 @@ If you've found a repository that contains a lot of what you're looking for but 
 In the screenshot here you can see the option to **Download ZIP** file
 
 .. image:: /images/clone-url.png
-  :width: 400
+  :width: 300
 
 - Now I can use GitHub Desktop to manage the push
+
+|
+
+.. note:: Don't forget that you should ideally have the **.gitignore** file in the root of the repository, this prevents the uploading of unnecessary operating system files.

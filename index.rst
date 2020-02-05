@@ -65,6 +65,24 @@
 
   /resources
 
+.. toctree::
+  :maxdepth: 2
+  :caption: All Special Characters
+  :name: _special_characters
+  :hidden:
+
+  /allchars
+
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Group Exercise
+  :name: _group_exercise
+  :hidden:
+
+  /lab
+
+
 
 **Background**
 
@@ -77,4 +95,4 @@ The content style is ideal for sharing information with colleagues and customers
 
 |
 
-*All comments and updates welcome, please e-mail darren@nutanix.com*
+All comments and updates welcome, please :fa:`envelope-o` darren@nutanix.com
